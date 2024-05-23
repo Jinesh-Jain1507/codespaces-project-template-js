@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AI based T-shirt Designer",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Created a T-shirt Designer application integrating the OpenAI API, allowing users to ask AI to create T-shirt designs for them.",
+    url: "https://github.com/Jinesh-Jain1507/AI-T-Shirt-Designer",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Emergency Ambulance Booking System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created an emergency ambulance booking system with two types of users: Hospitals and Patients. Hospitals can register ambulances while users can book the ambulance according to location.",
+    url: "https://github.com/Jinesh-Jain1507/AmbulanceAid",
   },
   {
-    title: "My Resume Site",
+    title: "Blog Website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created a blog website where users can log in and start writing blogs. They can also update and delete their blogs.",
+    url: "https://github.com/Jinesh-Jain1507/Blog",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Resume Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a Simple Resume for freshers with no experience created using HTML and CSS",
+    url: "https://jinesh-jain1507.github.io/Basic-Resume/",
   },
 ];
 
